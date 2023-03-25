@@ -1,0 +1,11 @@
+.btn-white {
+  background-color: #fff;
+  border: none;
+  color: #000;
+}
+
+.btn-white:hover,
+.btn-white:focus {
+  background-color: #fff;
+  color: #f00;
+}
